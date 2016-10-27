@@ -1,6 +1,6 @@
 #JIRA Ticket Opener v1.0
 
-This extension allows you to type in the JIRA ticket number and navigate right to it! 
+This Chrome extension allows you to type in the JIRA ticket number and navigate right to it! 
 
 ##Installation
 
